@@ -82,7 +82,7 @@ venv.bak/
 *.log
 
 # Images, results, and other outputs
-*.png
+# *.png
 *.jpg
 *.jpeg
 *.bmp
